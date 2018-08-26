@@ -10,5 +10,14 @@
 	<atom:link href="https://bayaaki.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>勉強会</title>
+      <link>https://bayaaki.github.io/categories/%E5%8B%89%E5%BC%B7%E4%BC%9A/</link>
+      <pubDate>Sun, 26 Aug 2018 13:20:45 +0900</pubDate>
+      
+      <guid>https://bayaaki.github.io/categories/%E5%8B%89%E5%BC%B7%E4%BC%9A/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
